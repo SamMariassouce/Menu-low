@@ -74,7 +74,7 @@ const menu = [
     title: 'Extincteurs',
     category: 'RDC',
     loc: 'RDC',
-    img: '/images/Bat 0  Extincteurs.jpg',
+    img: '/images/Bat0ext.jpg',
   },
   {
     id: 12,
